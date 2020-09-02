@@ -1,0 +1,22 @@
+{
+  "name": "rollup-plugin-watch-transform",
+  "version": "1.0.0",
+  "description": "Watch transformed files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellioseven/rollup-plugin-watch-transform.git"
+  },
+  "keywords": [
+    "rollup"
+  ],
+  "author": "Elliot Mitchum <elliot.mitchum@ellioseven.com.au>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellioseven/rollup-plugin-watch-transform/issues"
+  },
+  "homepage": "https://github.com/ellioseven/rollup-plugin-watch-transform#readme"
+}
