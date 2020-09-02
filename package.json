@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-watch-transform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Watch transformed files",
   "main": "index.cjs.js",
   "module": "index.es.js",
